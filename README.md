@@ -1,3 +1,11 @@
 # Projet Mot Croisés
 
-Bon en vrai je ferais une petite description plus tard parce que là, dodo !
+## Installation
+
+Mettre le fichier .py dans le dossier ref/ du dépôt local
+
+## Utilisation
+
+Lancer le programme:
+- en ligne de commande ` python CHEMIN/bizaretee.py`
+- depuis jupyter notebook
