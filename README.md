@@ -2,8 +2,8 @@
 
 ## Installation
 
-! Mettre à jour le dépôt ALGO-pour avoir tous les mots !
-Mettre le fichier .py dans le dossier ref/ du dépôt local
+- ! Mettre à jour le dépôt ALGO-pour avoir tous les mots !  
+- Mettre le fichier .py dans le dossier ref/ du dépôt local ()  
 
 ## Utilisation
 
