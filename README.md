@@ -2,7 +2,7 @@
 
 ## Installation
 
-- **Mettre à jour** le dépôt ALGO-pour avoir le maximum de mots !  
+- **Mettre à jour** le dépôt Algo-L1-2017-18 pour avoir le maximum de mots !  
 - Mettre le fichier .py dans le dossier **ref** du *dépôt local d'algorithmique*
 
 ## Utilisation
