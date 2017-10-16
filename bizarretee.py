@@ -46,7 +46,7 @@ def keywords_search():
 	for file in files_used: # Explore each file
 		files_data = open(file, encoding="utf8").read() # We put the document in a string variable
 		keywords_found_list = keywords_finder(files_data) 
-		
+
 		for word in keywords_found_list: # We add keywords to the good list
 			word = word[2:-2] # Remove the ** at the start and at the end of the word
 			keywords_list.append(word) # Add the word to the keywords_list
