@@ -91,8 +91,10 @@ def searching_with_letters(letters, keywords_list):
 
 def printing(words):
 	""" Why should I comment this ? """
+	print('############')
 	for word in words:
-		print(word)
+		print('->', word)
+	print('############')
 
 
 #------------------------------------------------#
@@ -100,6 +102,11 @@ def printing(words):
 #------------------------------------------------#
 keywords_list = keywords_search()
 
-words = searching_keywords_with_size(int(input("Size of the word: ")), keywords_list)
+while "User don't want exit":
+	words = searching_keywords_with_size(int(input("Size of the word: ")), keywords_list)
+	printing(words)
+	exit_statut = input("Exit? (y/n): ")
+	if exit_statut == "y":
+		break
 
-printing(words)
+
